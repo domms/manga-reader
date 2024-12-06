@@ -151,7 +151,7 @@ export default function Nav() {
         <List>
             <ListItem disablePadding sx={{ display: 'block' }}>
               <ListItemButton
-                href="/doms-manga-reader"
+                href="/"
                 sx={[
                   {
                     minHeight: 48,

@@ -6,7 +6,7 @@ import ReadPage from "../Pages/ReadPage";
 
 export const router = createBrowserRouter([
     {
-        path: '/',
+        path: '/doms-manga-reader',
         element: <App />,
         children: [
             {path: "", element: <HomePage />},

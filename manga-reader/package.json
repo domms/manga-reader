@@ -1,6 +1,6 @@
 {
   "name": "manga-reader",
-  "homepage": "https://domms.github.io/doms-manga-reader/",
+  "homepage": "https://readymanga.netlify.app/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
